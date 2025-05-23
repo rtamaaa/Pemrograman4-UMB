@@ -1,5 +1,9 @@
 # Pemrograman4-UMB
 
+### Nama : Muhammad Rizky Pratama
+### Nim  : 220320008
+## Universitas Muhammadiyah Banten
+
 # 📱 Aplikasi Android Login & Register
 
 Aplikasi Android dengan fitur **Register dan Login menggunakan API PHP & MySQL**, dibuat dengan Java dan Retrofit.  

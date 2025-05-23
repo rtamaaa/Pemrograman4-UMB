@@ -55,15 +55,17 @@ Tampilan modern, validasi lengkap, dan menampilkan "Selamat Datang, [nama]" di d
 
 ## Validasi Login Gagal
 
-![Tampilan Aplikasi](screenshot/Screenshot_2025-05-22_225124.png)
+![Validasi Login Gagal](screenshot/Screenshot%202025-05-22%20225124.png)
+
 
 ## Validasi Password Kurang dari 6 Karakter
 
-![Tampilan Aplikasi](screenshot/Screenshot_2025-05-22_230402.png)
+![Validasi Password](screenshot/Screenshot%202025-05-22%20230402.png)
+
 
 ## Login Berhasil
 
-![Tampilan Aplikasi](screenshot/Screenshot_2025-05-22_230510.png)
+![Login Berhasil](screenshot/Screenshot%202025-05-22%20230510.png)
 
 
 

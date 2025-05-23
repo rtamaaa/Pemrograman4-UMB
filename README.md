@@ -41,3 +41,10 @@ Tampilan modern, validasi lengkap, dan menampilkan "Selamat Datang, [nama]" di d
    → Jika login sukses:
        → Pindah ke halaman Dashboard
        → Tampilkan: "Selamat datang, [nama pengguna]"
+
+
+# Sreenshot aplikasi
+
+## Tampilan Login
+
+![Tampilan Aplikasi](screenshot/Screenshot%202025-05-23%20090637.png)

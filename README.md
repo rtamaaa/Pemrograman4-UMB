@@ -43,8 +43,28 @@ Tampilan modern, validasi lengkap, dan menampilkan "Selamat Datang, [nama]" di d
        → Tampilkan: "Selamat datang, [nama pengguna]"
 
 
-# Sreenshot aplikasi
+# Screenshot aplikasi
 
 ## Tampilan Login
 
 ![Tampilan Aplikasi](screenshot/Screenshot%202025-05-23%20090637.png)
+
+## Tampilan Register
+
+![Tampilan Aplikasi](screenshot/Screenshot%202025-05-23%20090334.png)
+
+## Validasi Login Gagal
+
+![Tampilan Aplikasi](screenshot/Screenshot%202025-05-23%22225124.png)
+
+## Validasi Password Kurang dari 6 Karakter
+
+![Tampilan Aplikasi](screenshot/Screenshot%202025-05-23%22230402.png)
+
+## Login Berhasil
+
+![Tampilan Aplikasi](screenshot/Screenshot%202025-05-23%22230510.png)
+
+
+
+
